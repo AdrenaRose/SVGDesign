@@ -1,0 +1,11 @@
+{
+  "name": "svgdesign",
+  "version": "1.0.0",
+  "description": "As a developer, I want to develop a command line application that will create an SVG logo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlene Parker",
+  "license": "ISC"
+}
