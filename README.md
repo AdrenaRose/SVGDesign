@@ -12,6 +12,8 @@ Open the files in an IDE
 ## Usage Instructions
 [Video Walkthrough](https://drive.google.com/file/d/1OFC8bX1a_GNtmxSti7c8m87GQYtSVSAH/view)
 <br>
+![Screenshot - CJP Logo](https://user-images.githubusercontent.com/121056345/235564774-25675155-df17-4f0f-a9e0-bef22e1a0bd6.png)
+<br>
 In the command line, run [node index.js] and respond to all prompts.
 
 ## License
